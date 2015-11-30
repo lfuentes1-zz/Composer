@@ -1,0 +1,12 @@
+{
+    "name": "lfuentes1/project",
+    "description": "Learning to use composer",
+    "authors": [
+        {
+            "name": "Letty Fuentes",
+            "email": "lettyfuentes2013@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
